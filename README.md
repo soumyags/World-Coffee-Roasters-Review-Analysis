@@ -21,6 +21,10 @@ Analysing coffee brand reviews was an incredible experience that allowed me to e
 
 This two-page Power BI report explores into coffee roster reviews from multiple countries spanning 2017-2022. It examines various attributes of the reviewed coffees, including roaster location, coffee origin, price per 100g, roast type, mouthfeel and aroma per review, and overall coffee rating.
 
+Recommodations:- 
+
+**Sweet-tart is the common mouth feel, either it may be juicy, high toned,savory.Recomm-Market should focus on sweet nature of coffee by providing sweet coffee with zero sugar**
+
 Through innovative use of bookmarks, this report provides answers to key questions derived from the dataset!
 -
 Hello Everyone,
