@@ -1,0 +1,29 @@
+Findings from the Roaster 
+Most Expensive Coffee- Mama Cata Mokkita
+
+Total Coffee Rosaters-294
+
+Total Brands Roasters-1141
+
+Top Most Roaster type in demand - Medium light and also has highest review
+
+Best Rating Brand in 2022 -> Colombia Finca El Paraiso Geisha Letty
+
+Worst Rating Brand --> 5a Poniente 
+ 
+Top 5 Countries producing Coffee --> USA , 774 Locations
+Taiwan -- > 339 Location
+
+Most of the Coffee/Brand has rating between 90-94 , which are Medium Light,range mostly around 1-20$
+
+Price Distibution --> USA,Taiwan has kept of 91% & 92% of theie coffee proce between 0-20$ , which is affordable 
+England has ony has expensive coffee 100-120$ 71% and Australia only has 60-80$ per
+ 100 gm
+
+It looks like price of coffee is reduced from 2021-2022 
+
+Rating v/s price --> high the price, hihest is the rating
+
+Rating as per roaster location-Average rating for roasters varies from 96 and so on till 92
+Countries as Australis,England,Kenya,Taiwan,Canada are top countries who has most average rated roasters
+
