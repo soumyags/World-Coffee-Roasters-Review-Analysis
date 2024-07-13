@@ -25,6 +25,7 @@ Through innovative use of bookmarks, this report provides answers to key questio
 -
 Hello Everyone,
 Key Insights:
+
 The dataset comprises 1,245 reviews, covering 1,141 coffee brands from 294 roaster locations.
 The average coffee rating is approximately 93, with ratings ranging from 84 to 97. Most coffees have ratings above 90.
 Among all origin countries, coffees from Tanzania and Panama have the highest average ratings.
